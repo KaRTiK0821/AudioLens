@@ -1,6 +1,6 @@
 # 🎵 AudioLens: Spotify Track Analysis & Clustering
 
-AudioLens is a machine learning project that analyzes Spotify tracks and groups them into clusters based on audio features like **danceability**, **energy**, **tempo**, and more. The project uses **K-Means clustering**, PCA for dimensionality reduction, and includes a simple recommendation system for suggesting similar songs.
+AudioLens is a machine learning project that analyzes Spotify tracks and groups them into clusters based on audio features like **danceability**, **energy**, **tempo**, and more. The project uses **K-Means clustering**, **PCA** for dimensionality reduction, and includes a simple recommendation system for suggesting similar songs.
 
 ---
 
@@ -28,10 +28,10 @@ AudioLens is a machine learning project that analyzes Spotify tracks and groups 
 
 ## 📂 Project Structure
 AudioLens/
-- main.py # Main Python script to run the project
-- spotify dataset.csv # Dataset used in the project
-- README.md # Project documentation
-- outputs/ # Visualizations and cluster summaries (optional)
+- main.py 
+- spotify dataset.csv 
+- README.md 
+- outputs/ 
 
 
 ---
